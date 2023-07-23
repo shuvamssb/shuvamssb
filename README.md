@@ -6,7 +6,7 @@
 
 ## Info -
 
-Hi there, I'm **Shuvam** an Full Stack Developer.
+Hi there, I'm **Shuvam** a Full Stack Developer.
 
 ```javascript
 const Shuvam = {
